@@ -11,6 +11,8 @@ export default function WelcomeHero() {
                             <div>
                                 <h1 className="text-slate-800 text-xl sm:text-2xl md:text-3xl font-bold">
                                     Welcome to the Education Manager
+                                    <br>
+                                    LOGIN TO YOUR ACCOUNT
                                 </h1>
                             </div>
                         </div>
