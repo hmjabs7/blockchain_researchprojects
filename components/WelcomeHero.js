@@ -9,7 +9,7 @@ export default function WelcomeHero() {
                     >
                         <div className="py-7 flex">
                             <div>
-                                <h1 className="text-slate-800 text-xl sm:text-2xl md:text-3xl font-bold">
+                                <h1 className="text-slate-800 textmain text-xl sm:text-2xl md:text-3xl font-bold">
                                     <img className="logoo" src="seu_low.png"/>
                                     Welcome to University Managment System
                                 </h1>
