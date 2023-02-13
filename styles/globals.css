@@ -18,6 +18,13 @@ body {
     @apply px-3 py-1 text-slate-500 hover:text-slate-800  rounded-xl transition ease-in-out duration-300;
 }
 
+.logoo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 .hamburger {
     cursor: pointer;
     width: 24px;
