@@ -19,9 +19,14 @@ body {
 }
 
 .logoo {
-  text-align: center;
+  text-align:center;
   width:180px;
   height:180px;
+}
+
+.textmain{
+   text-align:center;
+
 }
 
 .hamburger {
