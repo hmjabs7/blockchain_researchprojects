@@ -12,6 +12,7 @@ export default function WelcomeHero() {
                                 <h1 className="text-slate-800 text-xl sm:text-2xl md:text-3xl font-bold">
                                     <img src="https://github.com/hmjabs7/blockchain_researchprojects/blob/main/E1.jpg" width="500" height="600">
                                     Welcome to the Education Manager <br/> Login to your account
+                                    <link rel="icon" href="/favicon.ico" />
                                 </h1>
                             </div>
                         </div>
