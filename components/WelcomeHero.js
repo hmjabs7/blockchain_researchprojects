@@ -10,7 +10,6 @@ export default function WelcomeHero() {
                         <div className="py-7 flex">
                             <div>
                                 <h1 className="text-slate-800 text-xl sm:text-2xl md:text-3xl font-bold">
-                                    <img src="/main/E1.jpg" width="500px" height="600px">
                                     Welcome to the Education Manager <br/> Login to your account
                                 </h1>
                             </div>
